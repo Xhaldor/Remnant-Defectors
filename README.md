@@ -1,2 +1,2 @@
 # Remnant-Defectors
-A mod WIP made for STARSECTOR.
+<b>A mod WIP made for STARSECTOR.<b>
